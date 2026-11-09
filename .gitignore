@@ -6,6 +6,7 @@ gate/results/*/
 */zig-out/
 */swmm5.jar
 */classes/
+node_modules/
 __pycache__/
 *.pyc
 ref/runswmm
