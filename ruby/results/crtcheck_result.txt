@@ -1,0 +1,9 @@
+# ruby/test/run_crtcheck.sh: the Ruby runtime (swmm5/crt.rb) against glibc 2.39 (tools/crt/test/mkfmt.c, gcc -O2), 2026-11-08, ruby 3.3.6 (2024-11-05 revision 75015d4c1f) [x86_64-linux]
+  f %#g arg=412e847f00000000  glibc=312e652b3036  ruby=312e3030303030652b3036
+printf %f: 1082106 cases, 1 differ
+printf %d: 84000 cases, 0 differ
+printf %ld: 28000 cases, 0 differ
+printf %s: 81 cases, 0 differ
+strtod: 200052 cases, 0 differ
+sscanf: 13 cases, 0 differ
+1 of 1394252 cases differ

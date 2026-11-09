@@ -1,0 +1,4 @@
+#!/bin/sh
+# runswmm - the Ruby port's command line, as EPA's: runswmm <input file> <report file> [output file]
+# --disable-gems: the engine uses only Ruby's core and standard library, and skipping RubyGems saves start-up time.
+exec ruby --disable-gems "$(dirname "$0")/runswmm.rb" "$@"

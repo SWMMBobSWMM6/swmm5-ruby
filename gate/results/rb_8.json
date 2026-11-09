@@ -1,0 +1,28 @@
+[
+ {
+  "id": "fcdbc4886a73",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/72_H&H_Elements(2).inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 3300.007,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1500,
+   "len 1935",
+   "len 1500"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "77e00bc268b0",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SCANLON.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 3300.104,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   872,
+   "09321010C0       CIRCULAR             4.00    12.57     1.00     4.00        1   239.54",
+   "09321010C0       CIRCULAR"
+  ],
+  "stderr": ""
+ }
+]

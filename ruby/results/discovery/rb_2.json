@@ -1,0 +1,245 @@
+[
+ {
+  "id": "8e5e7c440292",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/CustomConduitShape.inp",
+  "status": "PASS",
+  "sec": 2.152,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "69aa966bd700",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_forcemain_dw.inp",
+  "status": "PASS",
+  "sec": 1.129,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2c2436854d0b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_horseshoe.inp",
+  "status": "PASS",
+  "sec": 1.176,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "3b054876d97b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/5000_Links_linear_links.inp",
+  "status": "PASS",
+  "sec": 2.189,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7c29f64780a7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/FM_Example2.inp",
+  "status": "PASS",
+  "sec": 2.069,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f922a04fc96e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/Small_Pump_FM.inp",
+  "status": "PASS",
+  "sec": 2.522,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "8eec8f32d799",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/29a_H&H_Elements_SI_Units(1).inp",
+  "status": "PASS",
+  "sec": 1.736,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "559242b56558",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/RUNOFF44_SW5.inp",
+  "status": "PASS",
+  "sec": 0.21,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "8805119b1484",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/lid_modeling.inp",
+  "status": "PASS",
+  "sec": 0.997,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "65dde904771b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/miami_usgs_rdii_runon.inp",
+  "status": "PASS",
+  "sec": 0.485,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "78b205b404c9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/runoff47_sw5.inp",
+  "status": "PASS",
+  "sec": 0.399,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f0a360644a04",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/lid2_continuous_30day.inp",
+  "status": "PASS",
+  "sec": 2.772,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "1616ef3bdae2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/variations_on_EMC.inp",
+  "status": "PASS",
+  "sec": 1.753,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "fecad8723501",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/EDSYPHON.inp",
+  "status": "PASS",
+  "sec": 0.493,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c8fe50abb866",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran1_negative_depth.inp",
+  "status": "PASS",
+  "sec": 1.357,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9344541a41a5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran3_RTC_Rule.inp",
+  "status": "PASS",
+  "sec": 1.059,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2eb4805e91fb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran3_slot.inp",
+  "status": "PASS",
+  "sec": 1.085,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "acad2a076166",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran5_slot.inp",
+  "status": "PASS",
+  "sec": 1.122,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "84d18e865673",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran7.inp",
+  "status": "PASS",
+  "sec": 1.117,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d09bf357d6ac",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_allow_ponding.inp",
+  "status": "PASS",
+  "sec": 2.314,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9db994062342",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_cms_units.inp",
+  "status": "PASS",
+  "sec": 2.167,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "6b8c29debb7e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_force_main_dw.inp",
+  "status": "PASS",
+  "sec": 2.254,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "32c27e07d740",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outfall_normal.inp",
+  "status": "PASS",
+  "sec": 2.427,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "16b89daa0bc5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outfall_tidal.inp",
+  "status": "PASS",
+  "sec": 2.334,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7e3ad4c53134",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outfall_timeseries.inp",
+  "status": "PASS",
+  "sec": 2.346,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "817fd16ee627",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_threads4.inp",
+  "status": "PASS",
+  "sec": 2.31,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "113778352217",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/test3.inp",
+  "status": "PASS",
+  "sec": 3.524,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

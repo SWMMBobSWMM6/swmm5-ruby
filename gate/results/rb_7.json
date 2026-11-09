@@ -1,0 +1,132 @@
+[
+ {
+  "id": "82215f471e79",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/380_nodes.inp",
+  "status": "PASS",
+  "sec": 217.205,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c61e91bbee6f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/429_H&H_Elements.inp",
+  "status": "PASS",
+  "sec": 375.254,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "fcdbc4886a73",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/72_H&H_Elements(2).inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.015,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1500,
+   "len 1935",
+   "len 1500"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "ee1d82e2fc5f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/attenuation_steady_flow.inp",
+  "status": "PASS",
+  "sec": 160.565,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f38e317a191b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/small_wwf_dwf.inp",
+  "status": "PASS",
+  "sec": 282.402,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "e619e57eddb1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/HRSDtest_cim_7.inp",
+  "status": "PASS",
+  "sec": 349.098,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "323879d389f5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/15_Subs_SI_Units.inp",
+  "status": "PASS",
+  "sec": 113.252,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2bd2002b905c",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/17_Sub_90_Link_USA_Units.inp",
+  "status": "PASS",
+  "sec": 601.986,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "60dda48e3fd9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/27_Subs_Horton.inp",
+  "status": "PASS",
+  "sec": 476.721,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9bb6dcaaedc9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/28_Sub_266_Link_USA_Units.inp",
+  "status": "PASS",
+  "sec": 165.593,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5f51615fbe49",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/46_Subs.inp",
+  "status": "PASS",
+  "sec": 151.811,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d4456aaa4c93",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/Horton_Continuous_Model.inp",
+  "status": "PASS",
+  "sec": 267.974,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "325fd17cef32",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/sewer_rdii_problem.inp",
+  "status": "PASS",
+  "sec": 535.247,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5db30c611edb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/user5_sub_patterns.inp",
+  "status": "PASS",
+  "sec": 423.006,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

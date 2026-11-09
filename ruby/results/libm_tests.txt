@@ -1,0 +1,32 @@
+# ruby/test/run_libm_tests.sh 1000000, 2026-11-08
+== ruby 3.3.6 (2024-11-05 revision 75015d4c1f) [x86_64-linux]: vectors.bin (N = 1000000 per function)
+exp: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+log: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+log10: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+pow: 1000272 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+sin: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+cos: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+tan: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+asin: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+acos: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+atan: 1000016 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+fma: 1000256 vectors, not used by the Ruby port (skipped)
+0 of 10000416 differ
+== edge.bin
+exp: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+log: 200000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+log10: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+pow: 700000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+sin: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+cos: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+tan: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+asin: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+acos: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+atan: 300000 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+0 of 3300000 differ
+== exact.bin
+sqrt: 1000028 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+floor: 1000028 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+ceil: 1000028 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+fabs: 1000028 vectors, 0 differ (0 of them only in a NaN's sign or payload)
+0 of 4000112 differ
